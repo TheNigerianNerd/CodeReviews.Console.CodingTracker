@@ -1,5 +1,4 @@
 ﻿using Spectre.Console;
-using System.Globalization;
 using static CodingTracker.TheNigerianNerd.Enums;
 
 namespace CodingTracker.TheNigerianNerd
